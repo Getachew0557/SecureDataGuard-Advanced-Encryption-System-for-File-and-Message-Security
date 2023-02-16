@@ -1,5 +1,5 @@
 # security_project
-the project are done using java and jframe (java user interface).
+The project are done using java and jframe (java user interface).
 This is computer file and personal message security system using Advanced Encryption System (ASE)
 THe project contains both encryption and decryption system
 computer file contains "pdf/any document, Video, Image and Audio" files.
